@@ -1,6 +1,9 @@
 var oLoginPage=require ("./Login/LoginBasePage.js");
 
 
+
+//spec utils
+
 class SpecUtil{
 
     async applicationLogin(dtoLogin){
