@@ -16,7 +16,7 @@
     "fetch-api": "0.0.2",
     "fs": "0.0.1-security",
     "fs-extra": "^8.1.0",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "json2csv": "4.5.3",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
